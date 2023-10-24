@@ -1,3 +1,5 @@
+Visit the Website: https://alexanderoe.github.io/Data_illustration_WorldBank/ to see the respective illustration and interactive graphs
+
 # The Environmental Kuznets Curve - A data analysis
 The subsequent investigation is related to the hypothesis of the Environmental Kuznets Curve (EKC) which states that emissions decline with increasing GDP as soon as a certain economic wealth is reached. Hence, it assumes a quadratic relationship between GDP and emission.   
 If this hypothesis holds, the established saying of "Green growth" might be feasible. However, the following analysis of World Bank data from 2006-2018 indicates that the EKC hypothesis has to be rejected.  
